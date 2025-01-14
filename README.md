@@ -1,4 +1,2 @@
 # NLP
-Mental health text classification project 
-Data from Kaggel 
-Used transformer model 
+Mental health text classification project with data from Kaggel and used transformer model.
